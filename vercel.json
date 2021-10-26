@@ -5,6 +5,5 @@
     { "src": "**/*.go", "use": "@vercel/go" }
   ],
   "rewrites": [
-    { "source": "/cron/planet", "destination": "/cron/planet/handler.go" }
   ]
 }
